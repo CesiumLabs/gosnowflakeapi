@@ -1,4 +1,4 @@
-package main
+package gosnowflakeapi
 
 import (
 	"net/url"
