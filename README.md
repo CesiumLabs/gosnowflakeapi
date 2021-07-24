@@ -19,6 +19,11 @@ func main() {
 
 ```
 
+## Links
+
+- [Documentation](https://pkg.go.dev/github.com/DevSnowflake/gosnowflakeapi)
+- [Discord Server](https://discord.gg/xjWmYDQezm)
+
 ## Todo
 
 - Write documentation for undocumented fields in the structs.
